@@ -15,7 +15,7 @@
 Qezy#2022 - Discord </br>
 itsqezy -   Twitter </br>
 
-# Claqz
+# Qezy
 <p align="center">
   <a href="https://github.com/Qezy2022">
     <img src="https://images-ext-1.discordapp.net/external/rJ6YZoVwC5-y9CpkfNpar_TIo4_6zsHLzTD4D8QP0sY/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/912864394055147561/a_ab15406994a1c8636ba5444622ccb7b9.gif"/>
